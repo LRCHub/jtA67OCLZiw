@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "base_track": "「ドライブ　デート　都内」",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-03-18T06:51:21.978557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」 (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_「ドライブ_デート_都内」_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_「ドライブ_デート_都内」_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「ドライブ デート 都内」",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_「ドライブ_デート_都内」_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "「ドライブ　デート　都内」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_「ドライブ_デート_都内」_=LOVE.lrc",
+      "repo_name": "9li9GTzIk0E"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "「ドライブ　デート　都内」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_02_「ドライブ_デート_都内」_=LOVE.lrc",
+      "repo_name": "Y3aRUM8ebKE"
+    }
+  ]
+}
